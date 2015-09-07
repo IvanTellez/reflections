@@ -1,0 +1,13 @@
+https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
+
+What happens when you initialize a repository? Why do you need to do it?
+A file .git is created, which is invisible to the user, but you can see it using the command ls -a.
+And you need this to start commiting
+Init is to create a new repository.
+Add is to add a file to the staging area.
+Staging area, is where files go before being commited, you can have as many files you want.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+From the working directory is different in the sense that it is a temporary working area.
+From the repository it doent store commits, but pre-commits if you may say.
+And the value it has, is that it gives you the opportunity to stage various file and commit them at once, in one commit.
