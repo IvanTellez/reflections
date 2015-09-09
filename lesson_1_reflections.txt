@@ -7,3 +7,4 @@ You can see new additions or improvements that have been done to a file, and you
 What do you think are the pros and cons of manually choosing when to create a commit, like you dou in Git, vs having versions automatically saved, like Google Docs does?
 Deciding to create a commit, the pros can be that you have a more personalize your versions, only adding the ones you think are important, the cons are that you may have minor important changes committed, or you can create too much commits that would be hard to understand and no pretty useful.
 Vs Google Docs, you dont have a control over your versions, unless you save manually
+
