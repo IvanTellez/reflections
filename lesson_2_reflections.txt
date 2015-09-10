@@ -23,3 +23,10 @@ When you want to make experimental changes to the file. Changes that you dont wa
 
 How do the diagrams help you visualize the branch structure?
 Its help me because it visual, visually i can understand better the behave fo the different branches.
+
+git branch. To show the branches.
+git checkout branch. To switch between branches
+git merge branch1 branch2. To merge two branches
+git branch -d branch. To delete a branch
+
+When there is a merge conflict open the file, and see where the conflic is, it can be two versions of the same code on the same file, you just have to delete the code that no longer gonna remain on the main file.
