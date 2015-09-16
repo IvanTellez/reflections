@@ -1,2 +1,11 @@
 When would you want to create a remote repository rather than keeping  all your work local?
 When i want to share my work with everyone else.
+
+Catching your GitHub password in Git
+	git config --global credential.helper wincred
+
+git remote. Show remotes
+git remote add remoteName. Create a remote
+git remote -v. Show more info of the remotes.
+git push remoteName branch. Push a remote from your local computer to GitHub.
+git pull remoteName branch. Pull a remote from your GitHub to local computer.
